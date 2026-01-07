@@ -14,3 +14,4 @@ Você pode acessar a fonte de dados a partir do link: [E-commerce_dataset][https
 As bases analíticas foram construídas a partir da junção das tabelas na camada .raw, utilizando chaves de relacionamento entre as entidades. 
 
 Para a modelagem em SQL, utiliza-se o BigQuery com o import das tabelas que estão disponibilizadas nesse projeto. 
+Link: {https://console.cloud.google.com/bigquery?project=ecommerce-dataset-483618&supportedpurview=project} 
