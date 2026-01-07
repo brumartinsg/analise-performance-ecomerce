@@ -1,5 +1,3 @@
-https://www.kaggle.com/datasets/abhayayare/e-commerce-dataset
-
 # Análise de Performance - E-commerce 
 
 ## Contexto 
