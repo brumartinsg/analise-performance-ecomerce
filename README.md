@@ -25,14 +25,13 @@ https://console.cloud.google.com/bigquery?project=ecommerce-dataset-483618&suppo
 
 ## 📈 Visualização e Análises (Looker Studio)
 
-Os dados modelados no BigQuery foram conectados ao Looker Studio, onde foi desenvolvido um dashboard interativo com foco em análise executiva.
+Os dados modelados no BigQuery foram conectados ao Looker Studio, onde foi desenvolvido um dashboard interativo.
 
 Principais análises disponíveis:
 - Visão geral de receita e pedidos;
--Comparação temporal entre o mês mais recente da base e o mês anterior.
+- Comparação temporal entre o mês mais recente da base e o mês anterior.
 
 Top 5 categorias e produtos, considerando:
-
 - Receita;
 - Ticket médio;
 - Volume de pedidos;
