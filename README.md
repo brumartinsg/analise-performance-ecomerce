@@ -1,9 +1,13 @@
-# Análise de Performance - E-commerce 
+# 📊 Análise de Performance - E-commerce 
 
-## Contexto 
-Esse projeto simula a análise de performance comercial de uma plataforma de e-commerce, com foco em indicadores de venda, comportamento de clientes e performance de produtos. 
+## 📌 Contexto 
+Este projeto simula a análise de performance comercial de uma plataforma de e-commerce, com foco em:
 
-O objetivo é construir uma estrutura analítica a partir de dados transacionais e gerar insights acionáveis de decisão. 
+- Indicadores de venda;
+- Comportamento de clientes;
+- Performance de produtos. 
+
+O objetivo é construir uma estrutura analítica, partindo de dados transacionais brutos até a criação de dashboards interativos, capazes de gerar insights acionáveis para tomada de decisão.
 
 ## Fonte de Dados 
 Os dados utilizados para o projeto são públicos e foram obtidos a partir de um dataset de e-commerce disponibilizado para fins educacionais e analíticos na plataforma Kaggle. 
