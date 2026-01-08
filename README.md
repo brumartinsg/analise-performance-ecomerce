@@ -15,3 +15,7 @@ As bases analíticas foram construídas a partir da junção das tabelas na cama
 
 Para a modelagem em SQL, utiliza-se o BigQuery com o import das tabelas que estão disponibilizadas nesse projeto. 
 Link: {https://console.cloud.google.com/bigquery?project=ecommerce-dataset-483618&supportedpurview=project} 
+
+## Visualização e Análises
+https://lookerstudio.google.com/reporting/5a289585-7af1-4ee3-963f-c87eff40fa56/page/muZkF
+
